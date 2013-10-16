@@ -1,5 +1,6 @@
-MAGPIE - (Arduino-Compatible) Open Source Electronics Prototyping Platform
-==========================================================================
+MAGPIE 
+======
+### (Arduino-Compatible) Open Source Electronics Prototyping Platform
 Manufactured by : Geek Ammo  
 SKU : GMO-00004
 
