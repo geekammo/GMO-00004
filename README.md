@@ -29,3 +29,8 @@ Features:
 * 14 digital I/O pins (6 with PWM)
 * 6 analogue inputs
 * Fully Arduino Uno R2-compatible
+
+Revision
+--------
+0.2 - Initial production release, 19th Oct 2013.
+
